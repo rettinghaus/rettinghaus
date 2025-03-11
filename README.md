@@ -10,7 +10,7 @@ I'm a musicologist and a developer with a love for open-source contributions and
 
 ## 📈 GitHub Stats
 
-![rettinghaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rettinghaus&show_icons=true&theme=radical)
+![rettinghaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rettinghaus&show_icons=true&theme=transparent)
 
 <!--
 **rettinghaus/rettinghaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
