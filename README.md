@@ -4,8 +4,7 @@ I'm a musicologist and a developer with a love for open-source contributions and
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C, C++, Python, XSLT
-- **Frameworks & Libraries:** React, Node.js, Express, Spring Boot
+- **Languages:** C, C++, Java, Python, XSLT
 - **Other Tools:** Git, Docker, GitHub Actions
 
 ## 📈 GitHub Stats
