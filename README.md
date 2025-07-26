@@ -7,6 +7,19 @@ I'm a musicologist and a developer with a love for open-source contributions and
 - **Languages:** C, C++, Java, Python, XSLT
 - **Other Tools:** Git, Docker, GitHub Actions
 
+## 🎼 Music Software
+
+Among other things, I work here at GitHub on software for rendering music notation:
+
+- [Verovio](https://github.com/rism-digital/verovio)
+- [MuseScore](https://github.com/rism-digital/verovio)
+- [TuxGuitar](https://github.com/helge17/tuxguitar)
+
+I'm also involved in designing SMuFL-compliant music fonts:
+
+- [Leipzig](https://github.com/rism-digital/leipzig)
+- [Legato](https://github.com/enote-GmbH/legato)
+
 ## 📈 GitHub Stats
 
 ![rettinghaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rettinghaus&show_icons=true&theme=transparent)
