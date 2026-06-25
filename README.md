@@ -26,6 +26,7 @@ I am committed to the further development of the following standards:
 - [MEI](https://github.com/music-encoding/music-encoding)
 - [MusicXML](https://github.com/w3c-cg/musicxml)
 - [SMuFL](https://github.com/w3c-cg/smufl/)
+- [CMIF](https://github.com/TEI-Correspondence-SIG/CMIF)
 
 ## 📈 GitHub Stats
 
