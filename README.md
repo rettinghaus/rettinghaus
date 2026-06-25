@@ -15,10 +15,17 @@ Among other things, I work here at GitHub on software for rendering music notati
 - [MuseScore](https://github.com/rism-digital/verovio)
 - [TuxGuitar](https://github.com/helge17/tuxguitar)
 
-I'm also involved in designing SMuFL-compliant music fonts:
+I am also involved in designing SMuFL-compliant music fonts:
 
 - [Leipzig](https://github.com/rism-digital/leipzig)
 - [Legato](https://github.com/enote-GmbH/legato)
+
+I am committed to the further development of the following standards:
+
+- [TEI](https://github.com/TEIC/TEI)
+- [MEI](https://github.com/music-encoding/music-encoding)
+- [MusicXML](https://github.com/w3c-cg/musicxml)
+- [SMuFL](https://github.com/w3c-cg/smufl/)
 
 ## 📈 GitHub Stats
 
